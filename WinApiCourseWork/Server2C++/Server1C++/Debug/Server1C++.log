@@ -1,0 +1,4 @@
+﻿  Server1C++.cpp
+D:\Курсачи\Курсач- 21\Server2C++\Server1C++\Server1C++.cpp(67,20): warning C4244: инициализация: преобразование "DWORDLONG" в "int", возможна потеря данных
+D:\Курсачи\Курсач- 21\Server2C++\Server1C++\Server1C++.cpp(68,20): warning C4244: инициализация: преобразование "DWORDLONG" в "int", возможна потеря данных
+  Server1C++.vcxproj -> D:\Курсачи\Курсач- 21\Server2C++\Debug\Server1C++.exe

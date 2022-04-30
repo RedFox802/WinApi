@@ -1,0 +1,3 @@
+﻿  ClientC++.cpp
+D:\Курсачи\Курсач- 21\ClientC++\ClientC++\ClientC++.cpp(107): warning C4717: ClientsMenu: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  ClientC++.vcxproj -> D:\Курсачи\Курсач- 21\ClientC++\Debug\ClientC++.exe
